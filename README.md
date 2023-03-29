@@ -1,4 +1,4 @@
 # PassangerCounter
 
-check below link for working:
+check the link for working:
 https://dhammanprathap.github.io/PassangerCounter/
